@@ -6,7 +6,21 @@ I get a lot of questions by email. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
--
+---
+
+### About me
+
+- Twitter: [@morishitter_](https://twitter.com/morishitter_)
+- [Blog](http://morishitter.hatenablog.com)
+- [Slides](https://speakerdeck.com/morishitter)
+- [Bookmarks](https://pinboard.in/u:morishitter)
+
+### Personal projects
+
+- [YACP](https://github.com/morishitter/YACP): Yet Another CSS Preprocessor
+- [AtCSS](https://github.com/morishitter/atcss): Annotations based CSS Processor
+- [postcss-style-guide](https://github.com/morishitter/postcss-style-guide): PostCSS plugin to generate a style guide automatically
+- [CSSfmt](https://github.com/morishitter/cssfmt): Automatically formats CSS and SCSS source code, inspired by Gofmt
 
 ### Guidelines
 
